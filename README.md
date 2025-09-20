@@ -10,7 +10,7 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 
 </blockquote>
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
     <img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
     <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green">
