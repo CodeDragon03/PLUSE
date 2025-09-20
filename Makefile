@@ -2,7 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = LCAM
+PROJECT_NAME = PLUSE
 PYTHON_VERSION = 3.12
 PYTHON_INTERPRETER = python3
 
@@ -51,12 +51,8 @@ test:
 .PHONY: create_environment
 create_environment:
 	
-	conda create --name $(PROJECT_NAME) python=$(PYTHON_VERSION) -y
-	
-	@echo ">>> conda env created. Activate with:\nconda activate $(PROJECT_NAME)"
-	
-
-
+	$(PROJECT_NAME) -m venv .venv
+	@echo ">>> .venv created. Activate with:\nsource .venv/bin/activate"
 
 #################################################################################
 # PROJECT RULES                                                                 #
