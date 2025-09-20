@@ -12,11 +12,11 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 </blockquote>
 
 <div>
-    <img src="https://img.shields.io/github/contributors/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/forks/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine?style=for-the-badge&logo=github&color=green">
-    <img src="https://img.shields.io/github/stars/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-    <img src="https://img.shields.io/github/issues/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+    <img src="https://img.shields.io/github/contributors/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green">
+    <img src="https://img.shields.io/github/stars/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/github/issues/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
 ## Table of Contents
@@ -34,7 +34,7 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine.git
+    git clone https://github.com/CodeDragon03/PLUSE.git
     ```
 
 2.  **Install dependencies:**
@@ -63,7 +63,7 @@ We welcome contributions\! To get started, please follow these steps:
 2.  **Clone your fork**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine.git
+    git clone https://github.com/CodeDragon03/PLUSE.git
 
     cd PLUSE
     ```
@@ -107,15 +107,15 @@ We welcome contributions\! To get started, please follow these steps:
 Thanks to all the people who have contributed to this project!
 
 <div align="start">
-    <a href="https://github.com/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine"/>
+    <a href="https://github.com/CodeDragon03/PLUSE/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=CodeDragon03/PLUSE"/>
     </a>
 </div>
 
 ## Issues
 
 If you encounter any issues, please open an issue in the
-[Issues](https://github.com/CodeDragon03/Predictive_Uptime_Lifecycle_Sentry_Engine/issues) section.
+[Issues](https://github.com/CodeDragon03/PLUSE/issues) section.
 
 ### Issue Guidelines
 
