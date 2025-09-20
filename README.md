@@ -50,7 +50,7 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 Use the following command to run the application:
 
 ```bash
-turbo run dev
+python3 src/main.py
 ```
 
 ## Contributing
