@@ -1,0 +1,8 @@
+# To get started with Dependabot
+
+version: 2
+updates:
+  - package-ecosystem: ""
+    directory: "/"
+    schedule:
+      interval: "weekly"
