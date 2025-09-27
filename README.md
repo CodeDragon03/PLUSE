@@ -28,6 +28,7 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 - [Appendix](#appendix)
 - [References](#references)
 - [License](#license)
+- [Learning Topics](./CHECKLIST.md)
 
 ## Getting Started
 
