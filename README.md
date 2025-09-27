@@ -19,7 +19,7 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
     <img src="https://img.shields.io/github/issues/CodeDragon03/PLUSE?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
-## 
+## [Machinery Fault Diagnostics and Signal Processing](https://nptel.ac.in/courses/112105232)
 
 - [ ]  **Week 1: Introduction to Maintenance, Diagnostics, and Prognostics**
     - [ ]  Introduction to the Course and Maintenance Principles.
