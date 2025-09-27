@@ -22,13 +22,13 @@ This <strong>AI-driven Prognostics and Health Management (PHM) platform</strong>
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Learning Workflow](./CHECKLIST.md)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Author](#author)
 - [Appendix](#appendix)
 - [References](#references)
 - [License](#license)
-- [Learning Workflow](./CHECKLIST.md)
 
 ## Getting Started
 
