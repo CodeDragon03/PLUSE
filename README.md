@@ -138,7 +138,6 @@ If you encounter any issues, please open an issue in the
 This project is licensed under the
 [MIT License](./LICENSE).
 
----
 
 ## [Machinery Fault Diagnostics and Signal Processing](https://nptel.ac.in/courses/112105232)
 
@@ -149,7 +148,6 @@ This project is licensed under the
     - [ ]  Prognostics and RUL (Remaining Useful Life).
     - [ ]  Machine Learning for CBM..
 
----
 
 - [ ]  **Week 2: Machinery Vibration (Prerequisite)**
     - [ ]  Vibration Concepts (Free and Forced Response).
@@ -157,7 +155,7 @@ This project is licensed under the
     - [ ]  Rotordynamics and Critical Speed.
     - [ ]  Practical Examples of Vibration (Relating to CBM).
 
----
+
 
 - [ ]  **Week 3: Basics of Signal Processing**
     - [ ]  Time Domain Analysis.
@@ -166,7 +164,7 @@ This project is licensed under the
     - [ ]  Signal Manifestations (Modulation, Beating).
     - [ ]  Orbit and Order Analysis.
 
----
+
 
 - [ ]  **Week 4: Data Acquisition and Special Signal Techniques**
     - [ ]  Data Acquisition (DAQ):
@@ -177,14 +175,14 @@ This project is licensed under the
         - [ ]  Cepstrum Analysis.
         - [ ]  Hilbert Transform (Envelope Analysis).
 
----
+
 
 - [ ]  **Week 5: Numericals**
     - [ ]  Numericals on Signal Processing.
     - [ ]  Signal Heterodyning.
     - [ ]  Practical Signals from Machines for CBM.
 
----
+
 
 - [ ]  **Week 6: Instrumentation and Signal Conditioning**
     - [ ]  Overview of Instrumentation
@@ -193,13 +191,13 @@ This project is licensed under the
     - [ ]  Dynamic Range and Frequency Response of Transducers
     - [ ]  List of Transducers for Different CBM Techniques
 
----
+
 
 - [ ]  **Week 7: Noise and Vibration Measurements**
     - [ ]  Noise and Vibration Measure Transducers
     - [ ]  Rotational Speed Measurement for CBM
 
----
+
 
 - [ ]  **Week 8: Faults in Rotating Machines (I)**
     - [ ]  Obvious Faults
@@ -208,7 +206,7 @@ This project is licensed under the
         - [ ]  Crack
         - [ ]  Looseness
 
----
+
 
 - [ ]  **Week 9: Faults in Rotating Machines (II) and Diagnostic Chart**
     - [ ]  Faults in Machine Components
@@ -218,7 +216,7 @@ This project is licensed under the
         - [ ]  Engines
     - [ ]  Machinery Diagnostic Chart
 
----
+
 
 - [ ]  **Week 10: Other CBM Technique**
     - [ ]  Principles of MCSA (Motor Current Signature Analysis)
@@ -226,14 +224,14 @@ This project is licensed under the
     - [ ]  Thermography
     - [ ]  Wear Debris Analysis and Oil Analysis
 
----
+
 
 - [ ]  **Week 11: Non-Destructive Testing (NDT) and Other Techniques**
     - [ ]  NDT Techniques (Ultrasonic, Radiography, Eddy Current)
     - [ ]  TCM (Tool Condition Monitoring) via Sensor Fusion
     - [ ]  EMA (Experimental Modal Analysis) and Resonance
 
----
+
 
 - [ ]  **Week 12: Failure Analysis and Case Studies**
     - [ ]  Failure Analysis
