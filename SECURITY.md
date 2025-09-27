@@ -4,10 +4,8 @@ We are committed to providing security updates for the current major and immedia
 
 | Version | Status | Supported with Security Updates |
 | :--- | :--- | :--- |
-| **5.1.x (LTS)** | **Current Major Release** | :white_check_mark: |
-| **5.0.x** | **End-of-Life** | :x: |
-| **4.0.x** | **Previous Major Release** | :white_check_mark: |
-| **< 4.0** | **End-of-Life** | :x: |
+| **0.0.x (LTS)** | **Current Major Release** | :white_check_mark: |
+| **0.0.x** | **End-of-Life** | :x: |
 
 ---
 
@@ -45,9 +43,9 @@ We follow the standard CVSS (Common Vulnerability Scoring System) to determine t
 
 | Severity | Time to Remediation Target (After Acceptance) | Disclosure Protocol |
 | :--- | :--- | :--- |
-| **Critical** | **7 days** | Immediate release of patch and advisory. |
-| **High** | **14 days** | Release of patch and advisory. |
-| **Medium** | **30 days** | Remediation targeted for the next maintenance release. |
-| **Low** | **90 days** | Remediation targeted for a future release. |
+| **Critical** | **30 days** | Immediate release of patch and advisory. |
+| **High** | **45 days** | Release of patch and advisory. |
+| **Medium** | **90 days** | Remediation targeted for the next maintenance release. |
+| **Low** | **180 days** | Remediation targeted for a future release. |
 
 We are committed to public disclosure once a patch is available. We will credit the researcher who reported the vulnerability, unless they wish to remain anonymous.
